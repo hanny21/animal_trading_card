@@ -2,20 +2,20 @@
 
 #card {
   width: 300px;
-  border: 3px solid #5a6478;
+  border: 3px solid #567;
   border-radius: 15px;
   margin: 0 auto;
   padding: 20px;
-  background-color: #52d76b;
-  color: #ffffff;
-  font-family: 'Josefin Sans', sans-serif;
-  box-shadow: 10px 10px 5px #dbdbdb;
+  background-color: #5d6;
+  color: #fff;
+  font-family: "Josefin Sans", sans-serif;
+  box-shadow: 10px 10px 5px #ddd;
 }
 
 img {
   width: 300px;
   margin-bottom: 10px;
-  border: 2px solid #5a6478;
+  border: 2px solid #567;
   border-radius: 10px;
 }
 
@@ -23,25 +23,25 @@ img {
   font-style: italic;
 }
 
-#list {
+.list {
   list-style-type: none;
-  padding-left: 0px;
+  padding-left: 0;
 }
 
 .item {
   font-weight: bold;
 }
 
-#description {
-  background-color: #43b659;
-  border: 2px solid #5a6478;
+.description {
+  background-color: #4b5;
+  border: 2px solid #567;
   border-radius: 10px;
   padding: 5px 10px;
 }
 
 h3 {
   text-align: center;
-  margin-top: 0px;
+  margin-top: 0;
 }
 
 p {
