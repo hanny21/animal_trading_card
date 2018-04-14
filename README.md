@@ -17,3 +17,6 @@ Page resembles card from design prototype.
 * The image is 300px wide or the image's width is set to 300px.
 * The image’s `alt` is relevant to the animal used.
 * Feel free to customize your style.
+
+## Dependencies
+Web browser: Google Chrome (recommended), Mozilla Firefox
